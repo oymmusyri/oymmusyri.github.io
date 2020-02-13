@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Omar Y. Musayri</title>
+<style id="applicationStylesheet" type="text/css">
+	.mediaViewInfo {
+		--web-view-name: Omar Y. Musayri;
+		--web-view-id: OmarMusayri;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: OmarMusayri;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#OmarMusayri {
+		position: absolute;
+		width: 1435px;
+		height: 608px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Omar Y. Musayri;
+		--web-view-id: OmarMusayri;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1434px;
+		height: 87px;
+		left: 1px;
+		top: 15px;
+	}
+	#WhatsApp_Image_2020_02_13_at_2 {
+		position: absolute;
+		width: 234px;
+		height: 234px;
+		left: 43px;
+		top: 140px;
+		overflow: visible;
+	}
+	.Rectangle_2 {
+		width: 1102px;
+		height: 109px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,321,184) rotate(0deg);
+		transform-origin: center;
+	}
+	#I_am_Omar_Yahya_Musayri___Curr {
+		position: absolute;
+		left: 333.5px;
+		top: 197.5px;
+		overflow: visible;
+		width: 1071px;
+		height: 76px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.01px;
+	}
+	#__Omar_Y__Musayri_ {
+		position: absolute;
+		left: 32.5px;
+		top: 23.5px;
+		overflow: hidden;
+		width: 214px;
+		height: 70px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.01px;
+	}
+</style>
+<script id="applicationScript">
+///////////////////////////////////////
+// INITIALIZATION
+///////////////////////////////////////
+
+
+	// initialize on load
+	// sometimes the body size is 0 so we call this now and again later
+	window.addEventListener("load", self.onloadHandler);
+	window.document.addEventListener("DOMContentLoaded", self.onloadHandler);
+}
+
+window.application = new Application();
+</script>
+</head>
+<body>
+<div id="OmarMusayri">
+	<svg class="Rectangle_1">
+		<rect fill="rgba(0,0,0,1)" stroke="rgba(0,0,0,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_1" rx="0" ry="0" x="0" y="0" width="1434" height="87">
+		</rect>
+	</svg>
+   <a href="https://github.com/oymmusyri">
+	<img id="WhatsApp_Image_2020_02_13_at_2" src="WhatsApp_Image_2020_02_13_at_2.png" srcset="https://avatars1.githubusercontent.com/u/60525103?s=400&u=eca2c202c0acbf9e8337aba4707a7ef6cc90304f&v=4">
+</a>
+  <svg class="Rectangle_2">
+		<rect fill="rgba(230,230,230,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2" rx="0" ry="0" x="0" y="0" width="1102" height="109">
+		</rect>
+	</svg>
+	<div id="I_am_Omar_Yahya_Musayri___Curr">
+		<span>I am Omar Yahya Musayri.  Currently, I am studying Computer Science at College of Computer and Information Sciences at Imam University, Riyadh, Saudi Arabia. <br/> I have learned Java programming language, Data structure and other subjects like Digital logic and Algorithm Analyzing.  <br/>I also have simple knowledge in (HTML & CSS) and interested in CyberSecurity.</span>
+	</div>
+	<div id="__Omar_Y__Musayri_">
+		<span></span><br><span style="font-size:25px;color:rgba(255,255,255,1);"> Omar Y. Musayri</span><br>
+	</div>
+
+  <img id="github" src="github.png" srcset="github.png 1x, github@2x.png 2x">
+
+  <a href="https://curiouscat.me/iOmar_">
+<img id="curios" src="curios.png" srcset="curios.png 1x, curios@2x.png 2x">
+</a>
+
+<img id="twitter" src="twitter.png" srcset="twitter.png 1x, twitter@2x.png 2x">
+
+<style media="screen">
+
+
+#twitter {
+		position: absolute;
+		width: 33px;
+		height: 33px;
+		left: 188px;
+		top: 398px;
+		overflow: visible;
+	}
+
+  #curios {
+		position: absolute;
+		width: 32px;
+		height: 33px;
+		left: 132px;
+		top: 398px;
+		overflow: visible;
+	}
+
+  #github {
+  		position: absolute;
+  		width: 33px;
+  		height: 33px;
+  		left: 75px;
+  		top: 398px;
+  		overflow: visible;
+  	}
+
+    
+
+
+</style>
+
+
+</div>
+</body>
+</html>

@@ -1,0 +1,105 @@
+.mediaViewInfo {
+		--web-view-name: Omar Y. Musayri;
+		--web-view-id: OmarMusayri;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: OmarMusayri;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#OmarMusayri {
+		position: absolute;
+		width: 1435px;
+		height: 608px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Omar Y. Musayri;
+		--web-view-id: OmarMusayri;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 1434px;
+		height: 87px;
+		left: 1px;
+		top: 15px;
+	}
+	#WhatsApp_Image_2020_02_13_at_2 {
+		position: absolute;
+		width: 234px;
+		height: 234px;
+		left: 43px;
+		top: 140px;
+		overflow: visible;
+	}
+	.Rectangle_2 {
+		width: 1102px;
+		height: 109px;
+		position: absolute;
+		overflow: visible;
+		transform: matrix(1,0,0,1,321,184) rotate(0deg);
+		transform-origin: center;
+	}
+	#I_am_Omar_Yahya_Musayri___Curr {
+		position: absolute;
+		left: 333.5px;
+		top: 197.5px;
+		overflow: visible;
+		width: 1071px;
+		height: 76px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.01px;
+	}
+	#__Omar_Y__Musayri_ {
+		position: absolute;
+		left: 32.5px;
+		top: 23.5px;
+		overflow: hidden;
+		width: 214px;
+		height: 70px;
+		text-align: left;
+		font-family: Segoe UI;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 15px;
+		color: rgba(112,112,112,1);
+		letter-spacing: 0.01px;
+	}
+	#github {
+		position: absolute;
+		width: 33px;
+		height: 33px;
+		left: 75px;
+		top: 398px;
+		overflow: visible;
+	}
+	#curios {
+		position: absolute;
+		width: 32px;
+		height: 33px;
+		left: 132px;
+		top: 398px;
+		overflow: visible;
+	}
+	#twitter {
+		position: absolute;
+		width: 33px;
+		height: 33px;
+		left: 188px;
+		top: 398px;
+		overflow: visible;
+	}
+
